@@ -1,5 +1,9 @@
 # ServerPublisher
-[![CodeQL](https://github.com/AoShinRO/ServerPublisher/actions/workflows/github-code-scanning/codeql/badge.svg)](https://img.shields.io/github/actions/workflow/status/AoShinRO/ServerPublisher/github-code-scanning/codeql?)
+[![CodeQL](https://github.com/AoShinRO/ServerPublisher/actions/workflows/github-code-scanning/codeql/badge.svg?)](https://img.shields.io/github/actions/workflow/status/AoShinRo/ServerPublisher/github-code-scanning/codeql?)
+[![Bandit](https://github.com/AoShinRO/ServerPublisher/actions/workflows/bandit.yml/badge.svg?)](https://github.com/AoShinRO/ServerPublisher/actions/workflows/bandit.yml?)
+![GitHub](https://img.shields.io/github/license/AoShinRo/ServerPublisher.svg) ![commit activity](https://img.shields.io/github/commit-activity/w/AoShinRo/ServerPublisher) ![GitHub repo size](https://img.shields.io/github/repo-size/AoShinRo/ServerPublisher.svg)
+
+
 ### Esta ferramenta possibilita separar apenas os arquivos necessários para rodar o servidor e ser publicado no servidor
 
 ## Como Usar?
