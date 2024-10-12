@@ -1,5 +1,5 @@
 # ServerPublisher
-[![CodeQL](https://github.com/AoShinRO/ServerPublisher/actions/workflows/github-code-scanning/codeql/badge.svg)]((https://img.shields.io/github/actions/workflow/status/AoShinRO/ServerPublisher/github-code-scanning/codeql?label=codeql%20build&logo=codeql))
+[![CodeQL](https://github.com/AoShinRO/ServerPublisher/actions/workflows/github-code-scanning/codeql/badge.svg)](https://img.shields.io/github/actions/workflow/status/AoShinRO/ServerPublisher/github-code-scanning/codeql?)
 ### Esta ferramenta possibilita separar apenas os arquivos necessários para rodar o servidor e ser publicado no servidor
 
 ## Como Usar?
