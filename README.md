@@ -1,6 +1,6 @@
 # ServerPublisher
-[![CodeQL Advanced](https://github.com/AoShinRO/ServerPublisher/actions/workflows/codeql.yml/badge.svg?)](https://github.com/AoShinRO/ServerPublisher/actions/workflows/codeql.yml?)
-[![Bandit](https://github.com/AoShinRO/ServerPublisher/actions/workflows/bandit.yml/badge.svg?)](https://github.com/AoShinRO/ServerPublisher/actions/workflows/bandit.yml?)
+[![CodeQL Advanced](https://github.com/AoShinRO/ServerPublisher/actions/workflows/codeql.yml/badge.svg?event=push)](https://github.com/AoShinRO/ServerPublisher/actions/workflows/codeql.yml?event=push)
+[![Bandit](https://github.com/AoShinRO/ServerPublisher/actions/workflows/bandit.yml/badge.svg?event=push)](https://github.com/AoShinRO/ServerPublisher/actions/workflows/bandit.yml?event=push)
 ![GitHub](https://img.shields.io/github/license/AoShinRo/ServerPublisher.svg) ![commit activity](https://img.shields.io/github/commit-activity/w/AoShinRo/ServerPublisher) ![GitHub repo size](https://img.shields.io/github/repo-size/AoShinRo/ServerPublisher.svg)
 
 
