@@ -10,8 +10,12 @@
 # supported CodeQL languages.
 #
 name: "CodeQL Advanced"
+concurrency:
+  group: ${{ github.repository }}-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "main" ]
   pull_request:
